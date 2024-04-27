@@ -1,0 +1,10 @@
+#include<stdio.h>
+void main(){
+    printf("---------------------");
+    printf("\n|\t\t\t\t\t|");
+    printf("\nR\t\t\t\t\t|");
+    printf("\nN\t\t\t\t\t|");
+    printf("\nw\t\t\t\t\t|");
+    printf("\n|\t\t\t\t\t|");
+    printf("\n---------------------");
+}

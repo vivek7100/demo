@@ -1,0 +1,6 @@
+#include<stdio.h>
+void main(){
+    printf("Mahhmad Nathani");
+    printf("\nAge=20");
+    printf("\ncollage=LJ University");
+}
